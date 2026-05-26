@@ -23,7 +23,7 @@ I also work with Blockchain, Web3, and DeFi in practical, applied settings, focu
   <img src="https://cdn.simpleicons.org/docker" alt="Docker" height="32" />
   <img src="https://cdn.simpleicons.org/git" alt="Git" height="32" />
   <img src="https://cdn.simpleicons.org/github" alt="GitHub" height="32" />
-  <img src="https://cdn.simpleicons.org/amazonwebservices" alt="AWS" height="32" />
+  <img src="https://cdn.simpleicons.org/amazonwebservices/FF9900" alt="AWS" height="32" />
   <img src="https://cdn.simpleicons.org/googlecloud" alt="Google Cloud" height="32" />
   <img src="https://cdn.simpleicons.org/huggingface" alt="Hugging Face" height="32" />
   <img src="https://cdn.simpleicons.org/langchain" alt="LangChain" height="32" />
@@ -46,7 +46,8 @@ I also work with Blockchain, Web3, and DeFi in practical, applied settings, focu
 - AI/ML product development collaborations
 - Backend and data-intensive engineering projects
 - Blockchain, Web3, and DeFi projects
-- 
+- FoodTech, manufacturing, and industrial innovation projects
+- AI solutions for production, process optimization, and quality-focused systems
 - Technical networking and knowledge exchange
 
 ## Contact
