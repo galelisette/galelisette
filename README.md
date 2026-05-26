@@ -26,7 +26,7 @@ I also work with Blockchain, Web3, and DeFi in practical, applied settings, focu
   <img src="https://cdn.simpleicons.org/googlecloud" alt="Google Cloud" height="32" />
   <img src="https://cdn.simpleicons.org/huggingface" alt="Hugging Face" height="32" />
   <img src="https://cdn.simpleicons.org/langchain" alt="LangChain" height="32" />
-  <img src="https://cdn.simpleicons.org/postgresql" alt="PostgreSQL" height="32" />
+  <img src="https://cdn.simpleicons.org/redis" alt="Redis" height="32" />
   <img src="https://cdn.simpleicons.org/mysql" alt="MySQL" height="32" />
   <img src="https://cdn.simpleicons.org/linux" alt="Linux" height="32" />
   <img src="https://cdn.simpleicons.org/kubernetes" alt="Kubernetes" height="32" />
