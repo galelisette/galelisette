@@ -8,8 +8,6 @@ I care about clean architecture, reproducible workflows, and solutions that are 
 
 In addition to my work in ML and software systems, I have an engineering background in food technology and hands-on experience in real manufacturing environments. This gives me practical insight into production processes, operational constraints, quality requirements, and the realities of industrial systems. Because of that background, I am especially well prepared to contribute to projects related to manufacturing, process optimization, industrial data, quality-focused systems, and applied AI solutions in production settings.
 
-I also work with Blockchain, Web3, and DeFi in practical, applied settings, focusing on how decentralized technologies can add value to AI systems, digital products, and financial platforms from both an architectural and operational perspective.
-
 ## Tech Stack
 
 <p>
@@ -44,8 +42,7 @@ I also work with Blockchain, Web3, and DeFi in practical, applied settings, focu
 - ML Engineer opportunities
 - AI/ML product development collaborations
 - Backend and data-intensive engineering projects
-- Blockchain, Web3, and DeFi projects
-- FoodTech, manufacturing, and industrial innovation projects
+- Pharma, Chemical, FoodTech, manufacturing, and industrial innovation projects
 - AI solutions for production, process optimization, and quality-focused systems
 - Technical networking and knowledge exchange
 
