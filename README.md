@@ -32,7 +32,7 @@ In addition to my work in ML and software systems, I have an engineering backgro
 ## What I Work On
 
 - Machine learning pipelines and model-serving workflows.
-- NLP and AI-powered product features.
+- NLP, CV and AI-powered product features.
 - Data processing, feature engineering, and evaluation.
 - Backend systems with a focus on reliability, scalability, and maintainability.
 - Developer workflows using Git, Docker, Kubernetes, and automation tools.
